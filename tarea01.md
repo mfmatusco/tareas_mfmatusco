@@ -21,7 +21,7 @@ Diría que la intención de esta webstory es introducirnos a **este motor de bú
 
 
 ## Mi perceción:
-## Flujo, imagenes, texto y lo que destaco
+### Flujo, imagenes, texto y lo que destaco
 
 A mi parecer, a nivel visual, los datos se presentan de forma jerarquizada; cada elección visual y sobre el flujo luce intencionada, presentándonos por medio de su elección de palabras e imágenes una narrativa clara de la visión del autor. A nivel de lo textual, creo que juega con la seriedad y el humor; te da información, pero generándote una sensación de cercanía. Respecto a lo estético, creo que la representación tiene mucho sentido, considerando que, a pesar de contar de forma equilibrada la información, esta se expone de una forma moderna, dinámica y conectada, lo que afecta la percepción del lector, pues, a mi parecer, debido al flujo, siempre mantiene tu atención, pero no te satura.
 ![Ejemplo](/Users/mfmatus/Downloads/image7)
